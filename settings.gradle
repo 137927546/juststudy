@@ -1,2 +1,2 @@
-include ':app', ':activitylifecycletest', ':uiwidgettest'
+include ':app', ':activitylifecycletest', ':uiwidgettest', ':uilayouttest', ':uicustomviews', ':listviewtext', ':recycleviewtest', ':fragmenttest', ':fragmentbestpractice', ':broadcasttest', ':anotherbroadcastreceiver', ':broadcastbestpractice', ':filepersistencetest', ':sharedpreferencestest', ':databasetest', ':permissionintro', ':notificationtest', ':cameraalbumtest', ':playaudiotest', ':playvideotest'
 rootProject.name='ConsonlidateActivity'
